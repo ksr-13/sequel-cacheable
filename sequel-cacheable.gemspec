@@ -18,5 +18,6 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
 
   gem.add_dependency 'sequel', '~> 5.72'
-  gem.add_dependency 'msgpack', '~> 0.5.1'
+  # gem.add_dependency 'msgpack', '~> 0.5.1'
+  gem.add_dependency 'msgpack', '~> 0.7.4'
 end
