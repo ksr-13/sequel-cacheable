@@ -19,5 +19,5 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency 'sequel', '~> 5.72'
   # gem.add_dependency 'msgpack', '~> 0.5.1'
-  gem.add_dependency 'msgpack', '~> 0.7.4'
+  gem.add_dependency 'msgpack', '~> 1.7.2'
 end
